@@ -220,11 +220,11 @@ DRINK_MASTER_v4.0/
 └── .gitignore
 ```
 
-### 🧩 CodeBuddy Skill
+### 🧩 Hermes Skill
 
-本项目附带 **AI Agent Skill** 配置文件 (`SKILL_drink_master.md`)，可直接作为 CodeBuddy 技能安装使用，让 AI 助手直接调用全部 5 层调酒能力。
+本项目附带 **AI Agent Skill** 配置文件 (`SKILL_drink_master.md`)，可直接作为Hermes Skill 技能安装使用，让 AI 助手直接调用全部 5 层调酒能力。
 
-This project ships with a **CodeBuddy Skill** config — drop it in and let your AI assistant wield all 5 layers of mixology intelligence.
+This project ships with a **Hermes Skill** config — drop it in and let your AI assistant wield all 5 layers of mixology intelligence.
 
 ---
 
