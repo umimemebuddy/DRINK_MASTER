@@ -126,7 +126,7 @@ python drink_master_v3.py search 烟熏味的金酒不要柠檬
 
 ### 🧩 AI Agent Skill — 一键部署智能调酒助手
 
-项目自带 **CodeBuddy Skill 配置文件**，安装后 AI 助手即可直接调用全部 5 层调酒能力——风味分析、风格迁移、语义搜索、库存创造、数据清洗，无需手动敲命令。
+项目自带 **Hermes Skill 配置文件**，安装后 AI 助手即可直接调用全部 5 层调酒能力——风味分析、风格迁移、语义搜索、库存创造、数据清洗，无需手动敲命令。
 
 Drop the `SKILL_drink_master.md` into CodeBuddy and your AI agent instantly becomes a cocktail genius — all 5 layers at your fingertips, no CLI required.
 
