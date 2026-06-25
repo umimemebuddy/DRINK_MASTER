@@ -15,6 +15,12 @@
   <sub>"More than a recipe database — your AI mixology consultant."</sub>
 </p>
 
+<p align="center">
+  <a href="https://memebuddy.uk/"><img src="https://img.shields.io/badge/🌐_Website-memebuddy.uk-8A2BE2?style=for-the-badge" alt="Website"></a>
+  <a href="https://x.com/DommeByte"><img src="https://img.shields.io/badge/X_(Twitter)-@DommeByte-000000?style=for-the-badge&logo=x" alt="X"></a>
+  <a href="https://t.me/Yyuzuz"><img src="https://img.shields.io/badge/Telegram-@Yyuzuz-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+</p>
+
 ---
 
 <p align="center">
@@ -229,6 +235,16 @@ DRINK_MASTER_v4.0/
 
 ---
 
+## 🌐 联系作者 | Connect
+
+| 平台 / Platform | 链接 / Link |
+|:----------------|:------------|
+| 🌍 **Website** | [memebuddy.uk](https://memebuddy.uk/) |
+| 𝕏 **X (Twitter)** | [@DommeByte](https://x.com/DommeByte) |
+| 📬 **Telegram** | [@Yyuzuz](https://t.me/Yyuzuz) |
+
+---
+
 ## 🤝 贡献 | Contributing
 
 欢迎提交 Issue 和 Pull Request！无论是新功能、bug 修复还是文档改进。
@@ -244,7 +260,7 @@ Issues and Pull Requests are welcome! Whether it's new features, bug fixes, or d
 ---
 
 <p align="center">
-  <sub>Made with 🍸 and ❤️ by Drink Masters</sub>
+  <sub>Made with 🍸 and ❤️ by <a href="https://memebuddy.uk/">Drink Masters</a></sub>
   <br>
   <sub>Cheers! 🥂 干杯!</sub>
 </p>
