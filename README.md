@@ -124,6 +124,14 @@ python drink_master_v3.py search 烟熏味的金酒不要柠檬
 
 ---
 
+### 🧩 AI Agent Skill — 一键部署智能调酒助手
+
+项目自带 **CodeBuddy Skill 配置文件**，安装后 AI 助手即可直接调用全部 5 层调酒能力——风味分析、风格迁移、语义搜索、库存创造、数据清洗，无需手动敲命令。
+
+Drop the `SKILL_drink_master.md` into CodeBuddy and your AI agent instantly becomes a cocktail genius — all 5 layers at your fingertips, no CLI required.
+
+---
+
 ## 🏗️ 系统架构 | Architecture
 
 ```
@@ -204,12 +212,19 @@ python drink_master_v4.py l5-clean
 
 ```
 DRINK_MASTER_v4.0/
-├── drink_master_v3.py    # 核心引擎 / Core: L1图谱 + L4搜索 + 词库
-├── drink_master_v4.py    # 升级模块 / Upgrade: L2风格 + L3库存 + L5清洗
-├── README.md             # 项目介绍 / You're reading it!
-├── LICENSE               # MIT 开源协议 / MIT License
+├── drink_master_v3.py       # 核心引擎 / Core: L1图谱 + L4搜索 + 词库
+├── drink_master_v4.py       # 升级模块 / Upgrade: L2风格 + L3库存 + L5清洗
+├── SKILL_drink_master.md    # 🆕 AI Agent Skill 定义 / CodeBuddy Skill Config
+├── README.md                # 项目介绍 / You're reading it!
+├── LICENSE                  # MIT 开源协议 / MIT License
 └── .gitignore
 ```
+
+### 🧩 CodeBuddy Skill
+
+本项目附带 **AI Agent Skill** 配置文件 (`SKILL_drink_master.md`)，可直接作为 CodeBuddy 技能安装使用，让 AI 助手直接调用全部 5 层调酒能力。
+
+This project ships with a **CodeBuddy Skill** config — drop it in and let your AI assistant wield all 5 layers of mixology intelligence.
 
 ---
 
@@ -231,6 +246,7 @@ DRINK_MASTER_v4.0/
 - [x] L3 库存感知创造 · Inventory Craft (Smart Ingredient Parser)
 - [x] L4 自然语言语义搜索 · Semantic Search (NLP Intent Parsing)
 - [x] L5 风味词库 + 数据清洗 · Flavor Lexicon + Data Cleanup
+- [x] 🧩 CodeBuddy AI Agent Skill · AI Skill Integration
 - [ ] 🖥️ Web UI 界面 · Web Interface
 - [ ] 📱 移动端适配 · Mobile Adaptation
 - [ ] 🧠 LLM 增强配方生成 · LLM-Enhanced Recipe Generation
