@@ -37,7 +37,11 @@
 
 **DRINK MASTER** 是一个基于大数据与风味科学的人工智能调酒系统。它不是一个简单的配方查询工具，而是一个拥有 **风味理解能力** 的智能调酒助手——能分析基酒的风味关联、将经典风格迁移到任意基酒、甚至根据你手头的库存实时创造全新配方。
 
-**DRINK MASTER** is an AI-powered cocktail system built on big data and flavor science. It's not just a recipe lookup tool — it's an intelligent mixology assistant with **flavor comprehension**: analyzing spirit pairings, migrating classic styles to any base spirit, and even creating new recipes on-the-fly from what you have on hand.
+**DRINK MASTER** is what happens when you cross a mad scientist's flavor lab with a master bartender's instinct — and then give it an AI brain. 🧠🍸
+
+It doesn't just *look up* recipes. It **understands flavor** at a molecular level. Feed it a spirit, and it maps out its entire flavor universe — every ingredient it's ever touched, every combination humanity has dared to try. Tell it you're in a *Tiki mood but only have Gin*, and it rewires the DNA of a Mai Tai into something entirely new. Staring at a near-empty fridge? Just type what you've got — that half lemon, that dusty bottle of rum, that questionable honey — and watch it conjure a legit cocktail out of thin air.
+
+This is not a recipe book. This is a **cocktail oracle** powered by co-occurrence matrices, Jaccard similarity, and a massive database of real-world drink recipes. It's part data scientist, part bartender, and 100% ready to make you look like a genius at your next party.
 
 > 🧠 **内核 / Core**：风味共现矩阵 + 向量相似度 + 风格特征引擎  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flavor Co-occurrence Matrix + Vector Similarity + Style Signature Engine  
